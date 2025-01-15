@@ -1,1 +1,1 @@
-## hello git
+## This repository consist of a project I'm learning about 
