@@ -1,1 +1,1 @@
-## This repository consist of a project I'm learning about 
+## Building something exciting with javascript 
